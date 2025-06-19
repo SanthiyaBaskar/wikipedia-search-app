@@ -30,18 +30,6 @@ Built using HTML, CSS, Bootstrap, JavaScript, and Fetch API.
 
 ---
 
-## 📁 Folder Structure
-
----
-
-## 🚀 How to Run
-
-1. Clone the repo:  
-   `git clone https://github.com/SanthiyaBaskar/wikipedia-search-app.git`
-
-2. Open `index.html` in any browser
-
----
 
 ## 👩‍💻 Developed By
 
