@@ -17,7 +17,7 @@ Built using HTML, CSS, Bootstrap, JavaScript, and Fetch API.
 
 ## 🧾 Output Preview
 
-![Wikipedia Search Output]()
+![Wikipedia Search Output](https://github.com/SanthiyaBaskar/wikipedia-search-app/blob/main/Santhiya%20image.jpg)
 
 
 ---
